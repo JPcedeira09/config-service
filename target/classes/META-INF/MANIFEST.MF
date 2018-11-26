@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: joaopaulo
+Build-Jdk: 11.0.1
+Implementation-Title: config-service
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: pl.piomin.services
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/config-service
+Created-By: Maven Integration for Eclipse
+
